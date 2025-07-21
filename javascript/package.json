@@ -1,8 +1,0 @@
-{
-  "name": "cyphercore-tamaaxzcw",
-  "version": "1.0.0",
-  "description": "Secure, cross-language crypto library by Tamaaxzcw",
-  "main": "index.js",
-  "author": "Tamaaxzcw (https://github.com/Tamaaxzcw)",
-  "license": "MIT"
-}
